@@ -4,7 +4,6 @@ Share your Augmented Reality Experiences
 
 Built using Flutter & Unity3d.
 
-This is our Final Year Prpject developed using Unity and Flutter.
 Unity AR Foundation was used to build a cross platform AR experience and flutter-unity-widget was used to imbed the unity module into the flutter.
 All the UI/UX is built in flutter and flutter-unity communication is handling all the nexessary calls between unity and flutter.
 
