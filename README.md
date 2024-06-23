@@ -9,12 +9,9 @@ All the UI/UX is built in flutter and flutter-unity communication is handling al
 
 ShARe allows the user to draw in Augmented Reality and share it with you friends. The way the app works is as follows:
 
-Draw to your hearts content
-Tap on the upload button
-Your friend will see your drawing on the explore tab
-The location of the drawing will be pinned on maps
-The explore tab shows the drawings with in the 25 meters range of the user
-When the user clicks on a particular tab the drawing is deployed as it was being drawn automatically.
+Feel free to unleash your creativity by drawing to your heart's content. After completing your masterpiece, simply tap the upload button. Your drawings will be showcased to friends and other users in the Explore tab. Each drawing is geotagged on maps, allowing others to pinpoint its location.
+
+In the Explore tab, you'll find drawings within a 25-meter radius of your current location. Clicking on a specific drawing deploys it as if it were being drawn before your eyes, providing an immersive experience of artistic expression.
 
 # Main Drawing module
 ![Draw](https://user-images.githubusercontent.com/51245088/172380138-126904b0-57b0-4620-bce0-d95e9d4e62f6.jpg)
