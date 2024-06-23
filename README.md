@@ -8,9 +8,8 @@ Unity AR Foundation was used to build a cross platform AR experience and flutter
 All the UI/UX is built in flutter and flutter-unity communication is handling all the nexessary calls between unity and flutter.
 
 ShARe allows the user to draw in Augmented Reality and share it with you friends. The way the app works is as follows:
+
 Draw to your hearts content
-
-
 Tap on the upload button
 Your friend will see your drawing on the explore tab
 The location of the drawing will be pinned on maps
